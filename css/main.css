@@ -291,6 +291,7 @@ footer.gallery-footer{
     right: 1.875rem;
     height: 3.125rem;
     left: .1rem;
+    opacity: 0;
     /* left: 0.5rem; */
     /* display: none; */
 }
@@ -315,6 +316,7 @@ footer.gallery-footer{
     height: 3.125rem;
     left: 0.26rem;
     top: .15rem;
+    opacity: 0;
 }
 
 .leftalign-btn {
